@@ -141,13 +141,13 @@ At first, I created a simpler model of the `PathGUI` class for the users to be a
 
 The unpacked values for these variables are fed to the *PathGUI class* and a new object is created based on the class's blueprint (code below). If `path` is False(default), the resulting GUI can filter data by keywords only, meaning analysis functions designed for Pathology Data would not be called;
 
-![Generic GUI](/project/images/generic_gui_main.png)
+![Generic GUI](/readme_images/Generic.png)
 
 In this instance, the keyword Search button allows the user to create a new tab with rows of the original data that contain the user's typed input. The quit button will terminate the GUI.
 
 On the other hand, if *path* is True, meaning the user has copied the link to [Pathology Data](https://www.proteinatlas.org/download/pathology.tsv.zip), the GUI window would have analysis features related to Pathology Data;
 
-![Path GUI](/project/images/path_gui_main.png)
+![Path GUI](/readme_images/PathGUI.png)
 
 The Gene and Pathology search buttons will filter and analyze the data as described in **3.Pathology Data**. The reset button will run the program again to update the original data and close all the other tabs. And finally, the Quit button will do as expected.
 
