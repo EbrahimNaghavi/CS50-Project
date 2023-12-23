@@ -55,7 +55,7 @@ Under the pie chart, the average p-value of the correlation between genetic data
 
 ### 3.2. Staining Data
 
-![Staining graph](/project/images/histo_genes_gui_analysis.png)
+![Staining graph](/readme_images/Staining_graph.png)
 
 Each row showing the number of patients at different staining levels is the result of a [immunohistochemically stained tissue microarray test](https://www.jove.com/t/3620/production-tissue-microarrays-immunohistochemistry-staining). This is a high-throughput analysis that shows the level of mRNA expression(*mentioned in Gene and Gene name column*) in a patient with a specific cancer(*Cancer column*).
 In this window, you can view a histogram showing the average number of patients in four staining levels (Not detected, Low, Medium, High) who were tested for the Gene or Pathology you searched for. For a Gene like BRAF(Known to be mutated in human cancer), you can see that mRNA expression is at high levels among patients. However, I do not expect this sample size to be a good representative of global clinical data.
