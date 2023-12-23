@@ -1,7 +1,7 @@
 # Exploring The Human Protein Atlas Datasets with Python GUI
 
 #### A graphical user interface to explore [pathology data](https://www.proteinatlas.org/download/pathology.tsv.zip) at [The Human Protein Atlas website](https://www.proteinatlas.org/about/download): save images of the analysis, and acquire data of your gene or pathology of interest in TSV or JSON format
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <[URL HERE](https://www.youtube.com/watch?v=28YFMvx18PE)>
 
 ## 1. Introduction:
 The purpose of this project is to provide a graphical user interface(GUI) that extracts specific data from [The Human Protein Atlas](https://www.proteinatlas.org/about/download), shows the data in a table, and performs some analysis based on the *gene* or *pathology* that is of interest to the user.
