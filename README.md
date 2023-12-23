@@ -42,7 +42,7 @@ The user can choose to filter this data by **Gene Name** or **Pathology** by cli
 
 ### 3.1. Patient Survival and mRNA Correlation
 
-![pie chart](/CS50-project/readme_images/Pie_chart.png)
+![pie chart](/readme_images/Pie_chart.png)
 
 In this window, a pie chart will represent the percentage of rows(specific gene and pathology) containing pathology or gene searched by the user in the following categories:
 - Prognostic-Favorable(light blue): The genetic data can predict the patient's survival, and medical interventions mitigate the patient's condition
